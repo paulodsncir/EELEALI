@@ -13,7 +13,7 @@
     "postpack": "pinst --enable"
   },
   "lint-staged": {
-    "src/**/*": [
+    "/src/app/*.*": [
       "yarn lint --fix"
     ]
   },

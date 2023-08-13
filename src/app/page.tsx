@@ -3,7 +3,7 @@ import styles from './page.module.css'
 
 export default function Home() {
   const paulo = 'oi'
-  const paulow = 'aoi'
+  const paulow = 'asoi'
   return (
     <main className={styles.main}>
       <div className={styles.description}>
