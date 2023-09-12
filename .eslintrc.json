@@ -3,5 +3,12 @@
     "plugin:prettier/recommended",
     "next/core-web-vitals"
   ],
-  "rules": {"no-unused-vars":"warn"}
+  "rules": {"no-unused-vars":"warn"},
+  "env": {
+    "node": true,
+    "jest": true,
+    "browser": true
+    
+
+  }
 }
